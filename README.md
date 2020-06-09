@@ -8,6 +8,6 @@
 - Open iTerm and go to **Preferences** (<kbd>Cmd</kbd>+<kbd>,</kbd>) > **Colors** > **Color Presets...** > **Import...**
 - Select `forest-night.itermcolors`.
 
-### Credits
+## Credits
 
 Based off [sainnhe's Forest Night](https://github.com/sainnhe/forest-night).
